@@ -69,8 +69,6 @@ pipx install fenv
 
 **Note:** ensurepath ensures that the application directory is on your $PATH. You may need to restart your terminal for this update to take effect.
 
-You may need to restart your terminal for this update to take effect.
-
 ## PyPi
 
 ```
